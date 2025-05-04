@@ -75,7 +75,7 @@ A friendly **chat-based guide** to help users understand LUKSO concepts quickly 
 ## 📬 Feedback & Suggestions
 
 Have feedback or want to suggest improvements?
-- Open an issue on [GitHub](https://github.com/swethaganeshh/CampusHub)
+- Open an issue on [GitHub](https://github.com/swethaganeshh/GridPal)
 - Or connect on LinkedIn (if you'd like to add)
 
   ---
