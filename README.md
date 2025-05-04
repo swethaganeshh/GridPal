@@ -1,7 +1,7 @@
 # 🟣 GridPal — Your Friendly Guide to the LUKSO Universe
 
+![image](https://github.com/user-attachments/assets/9756e4b1-a7cb-4567-997c-0b5d3842c479)
 
-![image](https://github.com/user-attachments/assets/c4f2904a-17a7-4668-9f96-68ba88cf710b)
 
 🌐 **Live Demo**: [gridpal.netlify.app](https://gridpal.netlify.app/)  
 🔗 **View on The Grid**: [GridPal on Universal Everything](https://universaleverything.io/0x3B2fB920c5D7d8d64C947a2e8fa36d2560c08699?assetGroup=grid)
@@ -66,6 +66,20 @@ A friendly **chat-based guide** to help users understand LUKSO concepts quickly 
 > Here’s what GridPal in Universal Profile looks like in action:
 ![image](https://github.com/user-attachments/assets/83c7c80a-556a-4dc9-ac58-922d5483011e)
 
+## 🧑‍💻 Author
+
+- 👩‍💻 [Swetha Ganesh](https://github.com/swethaganeshh)
+
+---
+
+## 📬 Feedback & Suggestions
+
+Have feedback or want to suggest improvements?
+- Open an issue on [GitHub](https://github.com/swethaganeshh/CampusHub)
+- Or connect on LinkedIn (if you'd like to add)
+
+  ---
+  ####Made with 💜 in the LUKSOverse.
 
 
 
