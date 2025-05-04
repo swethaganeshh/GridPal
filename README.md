@@ -79,7 +79,7 @@ Have feedback or want to suggest improvements?
 - Or connect on LinkedIn (if you'd like to add)
 
   ---
-  ####Made with 💜 in the LUKSOverse.
+##  Made with 💜 in the LUKSOverse.
 
 
 
