@@ -54,7 +54,7 @@ GridPal connects a React frontend to the LUKSO blockchain using Web3Modal, the L
 
 | Feature                             | Description                                                                 |
 |------------------------------------|-----------------------------------------------------------------------------|
-| 💬 **Chat Assistant (Text Only)**  | Ask questions and get helpful responses about LUKSO, UP, and Web3          |
+| 💬 **Chat Assistant **  | Ask questions and get helpful responses about LUKSO, UP, and Web3          |
 | 🔗 **Universal Profile Connection**| Connect wallet using `@lukso/lsp-smart-contracts` + Web3Modal              |
 | 🖼️ **Profile Data Display**        | Show username, profile image, and social links after connection            |
 | 💾 **Session Storage**             | Keeps your chat history and wallet session until reload                    |
