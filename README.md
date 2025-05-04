@@ -1,8 +1,7 @@
 # 🟣 GridPal — Your Friendly Guide to the LUKSO Universe
 
-> ✨ A React + Vite-powered **Chat Assistant** to Explore the World of Web3 on the LUKSO Blockchain
 
-![GridPal Screenshot](https://gridpal.netlify.app/preview.png) <!-- Replace with actual screenshot if available -->
+![image](https://github.com/user-attachments/assets/c4f2904a-17a7-4668-9f96-68ba88cf710b)
 
 🌐 **Live Demo**: [gridpal.netlify.app](https://gridpal.netlify.app/)  
 🔗 **View on The Grid**: [GridPal on Universal Everything](https://universaleverything.io/0x3B2fB920c5D7d8d64C947a2e8fa36d2560c08699?assetGroup=grid)
@@ -61,8 +60,13 @@ A friendly **chat-based guide** to help users understand LUKSO concepts quickly 
 ## 📸 Preview
 
 > Here’s what GridPal looks like in action:
+![image](https://github.com/user-attachments/assets/1b7a7dc5-6965-4a3d-94ef-590cc247438a)
+![image](https://github.com/user-attachments/assets/61d1ad4c-b19b-49c6-8def-379f37a73acf)
+![image](https://github.com/user-attachments/assets/deace37e-2f54-4d00-ba57-bbd23255ef3d)
+> Here’s what GridPal in Universal Profile looks like in action:
+![image](https://github.com/user-attachments/assets/83c7c80a-556a-4dc9-ac58-922d5483011e)
 
-![GridPal UI Preview](https://gridpal.netlify.app/preview.png)
 
----
+
+
 
