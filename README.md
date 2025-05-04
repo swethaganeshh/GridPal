@@ -39,7 +39,8 @@ A friendly **chat-based guide** to help users understand LUKSO concepts quickly 
 GridPal connects a React frontend to the LUKSO blockchain using Web3Modal, the LUKSO SDK, and smart contracts.
 
 ### 📌 Architecture Diagram
-![image](https://github.com/user-attachments/assets/60855b9f-1de7-438e-a904-3a55ff0f94f3)
+![image](https://github.com/user-attachments/assets/44271123-7390-4ab0-a4b1-305b253e4761)
+
 
 ### 🏷️ Legend
 
