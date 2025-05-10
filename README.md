@@ -96,6 +96,7 @@ Have feedback or want to suggest improvements?
   ---
 ##  Made with 💜 in the LUKSOverse.
 
+![Profile views](https://komarev.com/ghpvc/?username=swethaganeshh&color=green)
 
 
 
